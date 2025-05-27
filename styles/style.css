@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info{
+    background-color: #333333;
+}
+
+h1{
+    color: aqua;
+}
+
+footer{
+    top: 200px
+}
+
+.img-sett{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
