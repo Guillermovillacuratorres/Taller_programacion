@@ -1,7 +1,20 @@
-h1{
-    color: aqua;
+body {
+    margin: 0;
+    padding: 0;
+    background-color: linear-gradient(to botom, purple, yellow);
 }
 
 footer{
     top: 200px
+}
+
+.mucho_texto {
+    width: 60%;
+    margin: 40px auto;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
 }
